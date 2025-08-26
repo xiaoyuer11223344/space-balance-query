@@ -1,0 +1,19 @@
+# PyCharm
+.idea/*
+.DS_Store
+
+# cache
+__pycache__
+
+# venv
+venv
+
+# log
+log
+
+# test
+test
+static
+
+# self file
+moan
